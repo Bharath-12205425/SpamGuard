@@ -1,0 +1,24 @@
+# Flask backend
+Flask==3.0.3
+Flask-Cors==5.0.0
+
+# Machine Learning
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.2
+
+# NLP tools
+nltk==3.9.1
+textblob==0.18.0.post0
+
+# Model persistence
+joblib==1.4.2
+
+# For CSV upload/processing
+openpyxl==3.1.5
+
+# Optional: improve text preprocessing
+regex==2024.7.24
+
+# Deployment
+gunicorn==23.0.0
